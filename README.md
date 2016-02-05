@@ -1,1 +1,1 @@
-###Prouject Solutions to the [sql_zoo](http://sqlzoo.net/wiki/SQL_Tutorial) tutorial. 
+###Project Solutions to the [sql_zoo](http://sqlzoo.net/wiki/SQL_Tutorial) tutorial. 
